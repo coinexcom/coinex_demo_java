@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.1.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
