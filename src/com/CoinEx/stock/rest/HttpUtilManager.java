@@ -124,7 +124,6 @@ public class HttpUtilManager {
 		
 		url=url_prex+url;
 		HttpPost method = this.httpPostMethod(url, authorization);
-		String test = JSON.toJSONString(params);
 		StringEntity sendEntity = new StringEntity(JSON.toJSONString(params));
 		method.setEntity(sendEntity);
 		method.setConfig(requestConfig);
